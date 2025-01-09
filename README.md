@@ -1,4 +1,4 @@
-# HCaptcha
+good # HCaptcha
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-orange.svg)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/HCaptcha)](http://cocoapods.org/pods/HCaptcha)
